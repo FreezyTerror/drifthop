@@ -11,7 +11,7 @@
             }
 
             .backgroundwrap {
-                background-image: url('media/video.jpg');
+                background-image: url("media/video.jpg");
                 position: fixed;
                 z-index: -1000;
                 width: 100%;
