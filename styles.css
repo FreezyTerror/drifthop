@@ -1,5 +1,8 @@
 
-            a {text-decoration: none; }
+            a {
+								text-decoration: none;
+							}
+
             * {
                 margin: 0;
                 padding: 0;
@@ -72,4 +75,8 @@
                 letter-spacing: 6px;
                 color: white;
             }
-html, body {margin: 0; height: 100%; overflow: hidden}
+            html, body {
+              margin: 0; 
+              height: 100%; 
+              overflow: hidden
+            }
