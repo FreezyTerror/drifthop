@@ -6,7 +6,7 @@
             }
             
             body {
-                background-image:url(../media/video.jpg);
+                
                 font-family: "Comic Sans MS", cursive, sans-serif;
             }
 
@@ -21,6 +21,7 @@
             }
 
             #video-bg-elem {
+                background-image:url(../media/video.jpg);        
                 position: absolute;
                 top: 0;
                 left: 0;
