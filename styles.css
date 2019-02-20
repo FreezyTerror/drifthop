@@ -6,11 +6,12 @@
             }
             
             body {
-                background-image: (../media/video.jpg);
+                
                 font-family: "Comic Sans MS", cursive, sans-serif;
             }
 
             .backgroundwrap {
+                background-image: ./media/video.jpg;
                 position: fixed;
                 z-index: -1000;
                 width: 100%;
